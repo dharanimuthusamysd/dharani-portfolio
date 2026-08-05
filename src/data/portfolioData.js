@@ -12,7 +12,7 @@ export const profile = {
   linkedin: 'https://linkedin.com/in/dharani-muthusamysd',
   github: 'https://github.com/dharanimuthusamysd',
   about:
-    "Passionate Full Stack Developer with 1.6 years of hands-on experience building responsive web applications using Angular, React.js, PHP, Node.js, and MySQL. Skilled in developing reusable UI components, integrating REST APIs, and implementing payment gateways such as Razorpay and PhonePe. Strong problem-solving abilities, a quick learner, and always eager to contribute to innovative software development while continuously sharpening technical skills.",
+    "Full Stack Developer with 1.6 years of professional experience in developing modern web applications using Angular, React.js, PHP, Node.js, and MySQL. Skilled in frontend and backend development, REST API integration, database design, authentication, and payment gateway integration (Razorpay and PhonePe). Passionate about writing clean, maintainable code, solving complex problems, and delivering high-quality software solutions. Always eager to learn new technologies and contribute to impactful projects",
 }
 
 export const tickerItems = [
