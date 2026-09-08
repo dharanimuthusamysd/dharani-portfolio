@@ -2,10 +2,10 @@ export const profile = {
   name: 'DHARANI M',
   role: 'Full Stack Developer',
   tagline:
-    '1.6 years building responsive, production web apps across MEAN & MERN — from Shopify integrations and payment gateways to Android apps and real-time messaging dashboards.',
+    '1.8 years building responsive, production web apps across MEAN & MERN — from Shopify integrations and payment gateways to Android apps and real-time messaging dashboards.',
   status: 'Available',
   stack: 'MERN · MEAN',
-  experience: '1.6 Years',
+  experience: '1.8 Years',
   photo: 'https://github.com/dharanimuthusamysd.png',
   email: 'dharanimuthusamysd@gmail.com',
   phone: '8754873386',
@@ -116,7 +116,7 @@ export const projects = [
     tag: 'WEB',
     title: 'vflow.pro — Product Website',
     desc: 'Marketing and landing site for the VFlow product suite, built as a fast, component-driven Angular application with a clean, responsive UI.',
-    stack: ['Angular', 'TypeScript', 'Tailwind CSS'],
+    stack: ['MySQL', 'Angular', 'TypeScript', 'Node.js'],
     status: 'Deployed',
   },
   {
@@ -125,6 +125,14 @@ export const projects = [
     title: 'Vellakovil Marathon Registration',
     desc: 'Event registration website for a local marathon — runner sign-up, race category selection, and results display, built as a fast Vite-powered React app.',
     stack: ['React.js', 'TypeScript', 'Vite'],
+    status: 'Deployed',
+  },
+   {
+    id: 'TCKT-009',
+    tag: 'WEB',
+    title: 'Vbot — Business Website & For Whatsapp',
+    desc: 'Full MEAN-stack business website for Vbot — Angular frontend with a Node.js/Express REST API backend, MySQL-backed demo booking system, and automated email confirmations.',
+    stack: ['MySQL', 'Express.js', 'Angular', 'Node.js'],
     status: 'Deployed',
   },
 
